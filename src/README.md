@@ -30,5 +30,3 @@ Please append it to all of your API requests,
 
 OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=7e147ecf
 
-Click the following URL to activate your key: http://www.omdbapi.com/apikey.aspx?VERIFYKEY=8c4c7668-0bfa-45c5-882e-e4a180aae777
-If you did not make this request, please disregard this email.
